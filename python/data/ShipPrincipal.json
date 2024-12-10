@@ -1,0 +1,32 @@
+{
+  "LBP": 282.9,
+  "LOA": 291.9,
+  "Breadth": 46.4,
+  "Block Coefficient": 0.81,
+  "Number of Propulsion System": 2.0,
+  "Propeller Diameter": 8.3,
+  "Propeller Pitch Mean Ratio": 9.486,
+  "Rudder Span": 7.7,
+  "Rudder Area": 40.32,
+  "Rudder Aspect Ratio": 1.47,
+  "Draft": {
+    "Ballast": 9.4,
+    "Design": 11.5
+  },
+  "Displacement": {
+    "Ballast": 93310.0,
+    "Design": 116460.0
+  },
+  "Natural Roll Period": {
+    "Ballast": 13.51,
+    "Design": 15.67
+  },
+  "AT_air": {
+    "Ballast": 1578.0,
+    "Design": 1481.0
+  },
+  "AL_air": {
+    "Ballast": 7605.0,
+    "Design": 7001.0
+  }
+}

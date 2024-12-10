@@ -1,0 +1,238 @@
+{
+  "Oil": {
+    "Tier2": {
+      "LoadRate": {
+        "25.0": {
+          "Power": 3013.0,
+          "RPM": 43.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 168.9,
+          "": 0.0
+        },
+        "50.0": {
+          "Power": 6025.0,
+          "RPM": 54.1,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 161.6,
+          "": 0.0
+        },
+        "75.0": {
+          "Power": 9038.0,
+          "RPM": 62.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 157.3,
+          "": 0.0
+        },
+        "85.0": {
+          "Power": 10243.0,
+          "RPM": 64.6,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 158.2,
+          "": 0.0
+        },
+        "100.0": {
+          "Power": 12050.0,
+          "RPM": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 161.1,
+          "": 0.0
+        },
+        "110.0": {
+          "Power": 12050.0,
+          "RPM": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 161.1,
+          "": 0.0
+        }
+      }
+    },
+    "Tier3": {
+      "LoadRate": {
+        "25.0": {
+          "Power": 3013.0,
+          "RPM": 43.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 168.9,
+          "": 0.0
+        },
+        "50.0": {
+          "Power": 6025.0,
+          "RPM": 54.1,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 161.6,
+          "": 0.0
+        },
+        "75.0": {
+          "Power": 9038.0,
+          "RPM": 62.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 157.3,
+          "": 0.0
+        },
+        "85.0": {
+          "Power": 10243.0,
+          "RPM": 64.6,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 158.2,
+          "": 0.0
+        },
+        "100.0": {
+          "Power": 12050.0,
+          "RPM": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 161.1,
+          "": 0.0
+        },
+        "110.0": {
+          "Power": 12050.0,
+          "RPM": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SFOC": 161.1,
+          "": 0.0
+        }
+      }
+    }
+  },
+  "Gas": {
+    "Tier2": {
+      "LoadRate": {
+        "25.0": {
+          "Power": 3013.0,
+          "RPM": 43.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 15.7,
+          "SFGC": 127.9
+        },
+        "50.0": {
+          "Power": 6025.0,
+          "RPM": 54.1,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 9.9,
+          "SFGC": 126.5
+        },
+        "75.0": {
+          "Power": 9038.0,
+          "RPM": 62.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 7.5,
+          "SFGC": 125.4
+        },
+        "85.0": {
+          "Power": 10243.0,
+          "RPM": 64.6,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 6.9,
+          "SFGC": 128.3
+        },
+        "100.0": {
+          "Power": 12050.0,
+          "RPM": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 6.2,
+          "SFGC": 131.5
+        },
+        "110.0": {
+          "Power": 12050.0,
+          "RPM": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 6.2,
+          "SFGC": 131.5
+        }
+      }
+    },
+    "Tier3": {
+      "LoadRate": {
+        "25.0": {
+          "Power": 3013.0,
+          "rpm": 43.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 15.7,
+          "SFGC": 127.9
+        },
+        "50.0": {
+          "Power": 6025.0,
+          "rpm": 54.1,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 9.9,
+          "SFGC": 126.5
+        },
+        "75.0": {
+          "Power": 9038.0,
+          "rpm": 62.0,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 7.5,
+          "SFGC": 125.4
+        },
+        "85.0": {
+          "Power": 10243.0,
+          "rpm": 64.6,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 6.9,
+          "SFGC": 128.3
+        },
+        "100.0": {
+          "Power": 12050.0,
+          "rpm": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 6.2,
+          "SFGC": 131.5
+        },
+        "110.0": {
+          "Power": 12050.0,
+          "rpm": 68.2,
+          "Speed": 0.0,
+          "PriseLimit": 0.0,
+          "PmaxLimit": 0.0,
+          "SPOC": 6.2,
+          "SFGC": 131.5
+        }
+      }
+    }
+  }
+}
